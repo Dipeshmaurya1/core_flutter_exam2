@@ -1,4 +1,4 @@
-# Project Descreption
+# Project Description
 - The Student Data Management Application is a comprehensive tool designed for educational institutions to efficiently manage student information. This application allows users to:
 
 - Add New Student Data: Easily input new student details including Name, Grade, and Standard (Class). This ensures that all new admissions are promptly recorded and stored securely.
